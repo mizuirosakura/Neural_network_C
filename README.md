@@ -1,3 +1,6 @@
+# This repository contain the C code to create neural network which could classify mnist.
+You could create your own neural network by using "NN4_adam.c"
+
 水色桜（みずいろさくら）です。
 このリポジトリではC言語を用いてMNISTの分類が可能なニューラルネットワークを自作するためのコードを公開します。、
 今回作成したモデルの精度を以下に示します。
